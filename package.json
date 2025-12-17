@@ -13,7 +13,9 @@
     "react-dom": "^19.2.3",
     "lucide-react": "0.344.0",
     "framer-motion": "11.0.8",
-    "peerjs": "1.5.4"
+    "peerjs": "1.5.4",
+    "vite": "^7.3.0",
+    "@vitejs/plugin-react": "^5.1.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
