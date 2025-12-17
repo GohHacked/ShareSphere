@@ -1,0 +1,7 @@
+{
+  "name": "ShareSphere",
+  "description": "Мощный и удобный инструмент для передачи файлов, фото, видео и музыки между устройствами.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
